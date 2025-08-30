@@ -1,0 +1,8 @@
+body {font-family:Arial,sans-serif;margin:0;padding:0;}
+header,footer{background:#003366;color:#fff;text-align:center;padding:1em;}
+nav{background:#0055a5;padding:.5em;text-align:center;}
+nav a{color:#fff;margin:0 10px;text-decoration:none;}
+.container{padding:20px;}
+.product-card{display:inline-block;border:1px solid #ddd;padding:10px;margin:10px;width:200px;text-align:center;}
+button{background:#0055a5;color:#fff;border:none;padding:10px;margin-top:10px;cursor:pointer;}
+button:hover{background:#003366;}
